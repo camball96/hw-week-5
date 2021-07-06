@@ -1,13 +1,16 @@
-# hw-week-505 Third-Party APIs: Work Day Scheduler
+# hw-week-5 Third-Party APIs: Work Day Scheduler
+<br>
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
-User Story
+## User story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-Acceptance Criteria
+<br>
+
+## Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -23,4 +26,5 @@ WHEN I refresh the page
 THEN the saved events persist
 The following animation demonstrates the application functionality:
 
-day planner demo
+## day planner demo
+https://camball96.github.io/hw-week-5/
