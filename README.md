@@ -27,4 +27,4 @@ THEN the saved events persist<br>
 
 
 ## day planner demo
-https://camball96.github.io/hw-week-5/
+[See my day planner!](https://camball96.github.io/hw-week-5/)
